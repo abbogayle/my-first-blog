@@ -1,1 +1,1 @@
-Django~=2.2.4 myvenv\scripts\activate.ps1
+Django~=2.2.4 
